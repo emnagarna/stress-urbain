@@ -94,10 +94,10 @@ title: Travail réalisé
 <!-- > Ajoutez vos références ci-dessous en utilisant une présentation cohérente. -->
 
 
-### Semaine 1, recherche de projets similaires
+### Recherche de projets similaires
 
 **Christian Nold.** *Bio Mapping / Emotional Cartography*.
-biomapping.net (2004–).
+biomapping.net (http://biomapping.net) (2004–).
 
 Projet de reference pour la cartographie des emotions en ville,
 combinant capteurs de reponse galvanique de la peau et GPS. A
@@ -105,13 +105,30 @@ servi a situer ce projet par rapport aux approches existantes et
 a identifier leurs limites (methode difficile a reproduire,
 dependante de capteurs biometriques).
 
-**Kittelson & Associates et al.** *Urban Emotions*. Allemagne.
+**SeeClickFix.** *Citizen reporting platform*.
+[seeclickfix.com](https://seeclickfix.com) (2008–).
+[Voir la carte en direct](https://seeclickfix.com/web_portal/WAE8vSooYm9Yc9YRgEETwygF/issues/map?lat=41.311163293648626&lng=-72.92225341955579&max_lat=41.31156321086454&max_lng=-72.92150776544989&min_lat=41.31076337397945&min_lng=-72.9229990736617&zoom=19)
 
-Projet combinant capteurs, telephones intelligents et donnees
-participatives pour identifier les points de stress pour les
-pietons et cyclistes. A confirme la pertinence d'une approche
-geolocalisee et participative.
 
+Plateforme de signalement citoyen utilisee aux Etats-Unis,
+avec des categories proches de celles retenues dans ce projet
+(nid de poule, trottoir endommage, eclairage, signalisation,
+rampe d'acces). A valide le choix de categories concretes et
+actionnables par une municipalite.
+
+**FixMyStreet.** *Citizen reporting platform, open source*.
+[fixmystreet.com](https://www.fixmystreet.com) (2007–).
+
+Plateforme de signalement citoyen utilisee au Royaume-Uni,
+open source, utilisant le protocole Open311 pour router les
+signalements vers les autorites municipales.
+
+**Ville de Montréal.** *311 Montréal, application officielle*.
+[montreal.ca](https://montreal.ca/articles/signaler-un-probleme-avec-lapplication-montreal-services-aux-citoyens-22485)
+[App Store](https://apps.apple.com/ca/app/311-montr%C3%A9al/id1280592582?l=fr-CA)
+
+Application officielle de la Ville de Montreal permettant aux
+citoyens de signaler des problemes urbains
 
 ### Semaine 2, ponderation par les normes et par les données réelles
 
@@ -175,5 +192,5 @@ types de zones OSM pour calculer un taux de victimes pietonnes
 par type de zone, servant de base quantitative a l'ajustement de
 poids.
 
-### Semaine 3 
+
 

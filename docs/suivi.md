@@ -116,6 +116,16 @@ title: Suivi du projet
           Montréal (218272 collisions) et le croiser avec les
           zones extraites d'OpenStreetMap
         - Script débogué et exécuté localement 
+    - [x] Découverte de projets plus proches du projet
+        - 311 Montréal, application officielle de la Ville
+          permettant aux citoyens de signaler des problèmes
+          urbains, sans scoring de gravité ni détection de
+          zone
+        - FixMyStreet (Royaume-Uni) et SeeClickFix
+          (États-Unis), plateformes de signalement citoyen
+          avec des catégories similaires, qui ont
+          validé le choix de catégories concrètes et
+          actionnables par une municipalité
 
 ### Décisions et ajustements
 
