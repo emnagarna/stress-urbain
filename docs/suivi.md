@@ -207,21 +207,19 @@ title: Suivi du projet
 ### Décisions et ajustements
 
 !!! info "Décisions"
-  - Suppression de la catégorie « Autre problème », car elle serait difficile à analyser et Suppression de la question sur le fait d’avoir déjà été témoin d’un incident.
-  -  Transformation de « 3 — Habitudes et ressenti » en une page défilante contenant :
-        - Les habitudes de déplacement.
-        - Le ressenti de l’utilisateur.
-        - Le contexte d’utilisation du lieu.
-        - La situation de l’utilisateur.
-        - Les détails facultatifs.
-  - Ajout d’une section de tranche d’âge dans « CivAlert — Créer un compte ».
-
-### Difficultés rencontrées
-
-!!! warning "Difficultés"
+    - Suppression de la catégorie « Autre problème », car elle serait difficile à analyser et Suppression de la question sur le fait d’avoir déjà été témoin d’un incident.
+    -  Transformation de « 3 — Habitudes et ressenti » en une page défilante contenant :
+          - Les habitudes de déplacement.
+          - Le ressenti de l’utilisateur.
+          - Le contexte d’utilisation du lieu.
+          - La situation de l’utilisateur.
+          - Les détails facultatifs.
+    - Ajout d’une section de tranche d’âge dans « CivAlert — Créer un compte ».
 
 
-## Semaine 4 (25–30 septembre)
+
+
+## Semaine 4 (25 septembre - 1 octobre )
 
 ### Objectifs de la période
 - faire l interface destinée aux urbanistes sur Figma
