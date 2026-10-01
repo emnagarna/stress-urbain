@@ -17,7 +17,7 @@ title: Vue d'ensemble du projet
     **Auteur(s)**: Emna Garna (20262504)  
     **Thème(s)**: Cartographie du stress urbain.  
     **Superviseur(s)**: Louis Edouard Lafonatant.  
-    **Collaborateur(s):** <!-- Nom de(s) collaborateur(s) et partenaire(s)` -->  
+
 
 ## Description du projet
 
@@ -99,11 +99,12 @@ ajustement selon le type de zone (calcule a partir des donnees reelles de collis
 * **Validation des poids** : les poids ont ete etablis en combinant deux approches independantes, une analyse quantitative a partir du jeu de donnees Collisions routieres de la Ville de Montreal (218272 collisions depuis 2012), et une analyse qualitative basee sur des guides et normes municipales existants (Vision Zero Montreal, guide de Longueuil, Vivre en
 Ville, etc.).
 
+<!--
 ### Validation et Évaluation
 
-<!--
+
 > Indiquez comment vous évaluerez que votre solution répond aux objectifs du projet (ex. scénarios d’usage, tests, retours utilisateurs, indicateurs qualitatifs ou quantitatifs).
--->
+
 
 ## Échéancier
 
@@ -113,3 +114,4 @@ Ville, etc.).
 | Activités                      | Début   |   Fin   | Livrable                            | Statut      |
 |--------------------------------|---------|---------|-------------------------------------|-------------|
 
+-->

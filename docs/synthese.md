@@ -10,7 +10,7 @@ title: Synthèse
     }
 </style>
 
-
+<!--- 
 # Évaluation
 
 > :bulb: Cette page présente une vue d'ensemble du projet, depuis les études réalisées avant le développement jusqu'au bilan final.
@@ -90,3 +90,5 @@ title: Synthèse
 > * les éléments qui mériteraient d'être poursuivis ou améliorés.
 >
 > Le bilan doit permettre de comprendre **où en est réellement le projet à la fin de la session**, ce qui a été appris et quelles seraient les prochaines étapes pertinentes.
+
+-->

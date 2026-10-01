@@ -175,7 +175,8 @@ title: Suivi du projet
   problème ( Ajouter un facteur de pondération supplémentaire à la formule
   de calcul des poids)
 - Trouver des échelles de pondération déjà établies et documentées dans la littérature en sécurité routière
-- Figma
+- Organiser le parcours de signalement citoyen dans Figma.
+- Définir les zones et les catégories de signalement de CivAlert. 
 
 
 ### Travail réalisé
@@ -187,21 +188,67 @@ title: Suivi du projet
           autoroute, celle-ci étant supposée être une zone
           protégée, ce que le score basé uniquement sur les
           taux de collision par zone ne reflétait pas
-    - [] Recherche d'échelles de pondération déjà utilisées et
+    - [x] Recherche d'échelles de pondération déjà utilisées et
           reconnues
-    - [] Créer maquette sur Figma
-    - []  
-    - []  
+    - [x] Créer maquette sur Figma pour l app citoyen
+    - [x]  Définition des zones utilisées dans l’application :
+        - École
+        - Garderie
+        - Station de transport
+        - Piste cyclable
+        - Rue résidentielle
+        - Hôpital ou clinique
+        - Parc ou aire de jeux
+        - Résidence pour aînés ou CHSLD
+    - [x]  Uniformisation des catégories entre les différentes zones 
 
 
 
 ### Décisions et ajustements
 
 !!! info "Décisions"
-    - 
+  - Suppression de la catégorie « Autre problème », car elle serait difficile à analyser et Suppression de la question sur le fait d’avoir déjà été témoin d’un incident.
+  -  Transformation de « 3 — Habitudes et ressenti » en une page défilante contenant :
+        - Les habitudes de déplacement.
+        - Le ressenti de l’utilisateur.
+        - Le contexte d’utilisation du lieu.
+        - La situation de l’utilisateur.
+        - Les détails facultatifs.
+  - Ajout d’une section de tranche d’âge dans « CivAlert — Créer un compte ».
 
 ### Difficultés rencontrées
 
 !!! warning "Difficultés"
 
+
+## Semaine 4 (25–30 septembre)
+
+### Objectifs de la période
+- faire l interface destinée aux urbanistes sur Figma
+- comment traiter les zones ambigus qui vont se superposer
+- comment identifier concraitement chauqe zone ( flags ..)
+- framework a utiliser
+
+<!--- 
+### Travail réalisé
+
+!!! abstract "Avancement"
+    - [x] 
+    - [x] 
+    - [x] 
+
+
+
+
+### Décisions et ajustements
+
+!!! info "Décisions"
+  - 
+
+### Difficultés rencontrées
+
+!!! warning "Difficultés"
+
+
+-->
 
